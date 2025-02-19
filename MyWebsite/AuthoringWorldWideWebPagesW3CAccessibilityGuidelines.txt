@@ -1,0 +1,16 @@
+John McCluer
+Perceivable
+Heading sizes are correct to create structure for users using accessibility tools
+
+Operable
+Buttons navigate through the pages of the site
+
+Understandable
+Site is simple and easy to understand navigation and layout
+
+Robust
+Content is viewable across different resolutions no errors run through validator
+
+F.4 declared correct language
+
+H.12 separated Likes and Dislikes into different sections

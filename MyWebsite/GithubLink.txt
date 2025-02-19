@@ -1,1 +1,4 @@
-
+Github Repository 
+https://github.com/JWMLJ/Assignment2/tree/main
+My Website
+https://jwmlj.github.io/Assignment2/MyWebsite/index.html
